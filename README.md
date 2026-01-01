@@ -44,7 +44,7 @@ Mistakes to avoid:
 
 
 By:
-Qutaiba Abualrob
-Mohammed Sbehat
-Ibrahim Kilani
+Qutaiba Abualrob,
+Mohammed Sbehat,
+Ibrahim Kilani,
 Khaled Nidal
