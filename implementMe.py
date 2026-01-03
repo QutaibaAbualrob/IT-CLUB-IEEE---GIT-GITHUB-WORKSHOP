@@ -8,7 +8,7 @@ def add(a, b):
 # Implement me team member 2
 def subtract(a, b):
     #Type the correct logic
-    pass
+    return a-b
 
 # Implement me team member 3
 def multiply(a, b):
