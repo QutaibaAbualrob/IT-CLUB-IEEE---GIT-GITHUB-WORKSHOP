@@ -20,7 +20,7 @@ def multiply(a, b):
 def divide(a, b):
     
     #Type the correct logic
-    pass
+    return a/b
 
 
 # Implement me team leader
