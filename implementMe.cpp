@@ -10,7 +10,7 @@ int add(int a, int b) {
 
 
 
-    // Type the correct logic
+    // Type the correyuyuct logic
     return 0;
 }
 
