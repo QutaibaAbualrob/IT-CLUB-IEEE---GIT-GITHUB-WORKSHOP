@@ -8,10 +8,10 @@ using namespace std;
 // Implement me team member 1
 int add(int a, int b) {
 
-
+int x=a+b;
 
     // Type the correct logic
-    return 0;
+    return x;
 }
 
 // Implement me team member 2
