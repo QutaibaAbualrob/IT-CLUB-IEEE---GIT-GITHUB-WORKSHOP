@@ -18,6 +18,7 @@ def multiply(a, b):
 
 # Implement me team member 4
 def divide(a, b):
+    return a/b:
     
     #Type the correct logic
     pass
